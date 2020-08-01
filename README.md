@@ -1,2 +1,4 @@
-# hello-world
-My first personal github repo
+# Hello World!
+Welcome to my first personal github repo!
+
+These are some edits I'm making to the readMe file.
